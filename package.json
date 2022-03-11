@@ -1,0 +1,17 @@
+{
+  "name": "prex",
+  "version": "1.0.0",
+  "description": "ejercicio de prueba",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon -L"
+  },
+  "author": "Leonel Wirth",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
